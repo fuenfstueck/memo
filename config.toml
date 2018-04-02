@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://fuenfstueck.github.io/memo/"
 languageCode = "en-us"
 title = "Memo"
 theme = "elephants"
+publishDir = "docs"
